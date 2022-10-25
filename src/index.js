@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import "./index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./index.css";
 
 //! index componenti ReactDOM.createRoot() metodu ile
 //! public klasorunde yer alan index.html icersindeki id'si root
