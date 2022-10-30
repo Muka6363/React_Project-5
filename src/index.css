@@ -13,7 +13,7 @@ body {
   background-size: cover;
 }
 
-.App {
+.container {
   border: 3px solıd rgb(0, 247, 255);
   margin: 20rem 30rem;
 }

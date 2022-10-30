@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 //? App componentinin function declaration ile tanimlanmasi
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <Header />
       <Home />
     </div>
